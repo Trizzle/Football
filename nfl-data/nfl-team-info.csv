@@ -1,0 +1,33 @@
+team-num,city,name,conference,division,helmet,stadium,latitude,longitude,capacity,rec-attend,surface,team,open,roof
+1,Kansas City Missouri,Chiefs,AFC,West,,Arrowhead Stadium,39.048914,-94.484039,76416,76416,Grass,KC,1972,None
+2,Charlotte North Carolina,Panthers,NFC,South,,Bank of America Stadium,35.225808,-80.852861,73778,73778,Grass,CAR,1996,None
+3,San Francisco California,49ers,NFC,West,,Levi Stadium,37.403,-121.97,69732,69732,Kentucky Bluegrass,SF,1960,None
+4,Seattle Washington,Seahawks,NFC,West,,CenturyLink Field,47.595153,-122.331625,67000,72000,FieldTurf,SEA,2002,None
+5,Arlington Texas,Cowboys,NFC,East,,Cowboys Stadium,32.747778,-97.092778,80000,105121,Matrix RealGrass„artificial turf,DAL,2009,Retractable
+6,Los Angeles California,Rams,NFC,West,,Los Angeles Memorial Coliseum,34.014167,-118.287778,80000,80000,Grass,LAR,1923,None
+7,Jacksonville Florida,Jaguars,AFC,South,,EverBank Field,30.323925,-81.637356,67246,76867,419 Tifway Bermuda Grass,JAC,1995,None
+8,Landover Maryland,Redskins,NFC,East,,FedExField,38.907697,-76.864517,85000,85000,419 Tifway Bermuda Grass,WAS,1997,None
+9,Cleveland Ohio,Browns,AFC,North,,FirstEnergy Stadium,41.506022,-81.699564,73200,73200,Kentucky Bluegrass,CLE,1999,None
+10,Detroit Michigan,Lions,NFC,North,,Ford Field,42.340156,-83.045808,65000,70000,FieldTurf,DET,2002,Dome
+11,Atlanta Georgia,Falcons,NFC,South,,Georgia Dome,33.757614,-84.400972,71228,71228,FieldTurf,ATL,1992,Dome
+12,Foxborough Massachusetts,Patriots,AFC,East,,Gillette Stadium,42.090925,-71.26435,68756,68756,FieldTurf,NE,2002,None
+13,Pittsburgh Pennsylvania,Steelers,AFC,North,,Heinz Field,40.446786,-80.015761,65050,66662,Grass,PIT,2001,None
+14,Green Bay Wisconsin,Packers,NFC,North,,Lambeau Field,44.501306,-88.062167,79594,79594,Desso GrassMaster,GB,1957,None
+15,Philadelphia Pennsylvania,Eagles,NFC,East,,Lincoln Financial Field,39.900775,-75.167453,68532,69144,Desso GrassMaster,PHI,2003,None
+16,Nashville Tennessee,Titams,AFC,South,,LP Field,36.166461,-86.771289,69143,69143,419 Tifway Bermuda Grass,TEN,1999,None
+17,Indianapolis Indiana,Colts,AFC,South,,Lucas Oil Stadium,39.760056,-86.163806,62421,70000,FieldTurf,IND,2008,Retractable
+18,Baltimore Maryland,Ravens,AFC,North,,M&T Bank Stadium,39.277969,-76.622767,71008,71008,Sportexe Momentum Turf,BAL,1998,None
+19,Minneapolis Minnesota,Vikings,NFC,North,,US Bank Stadium,44.973889,-93.258056,64121,73000,UBU-Intensity Series- S5-M Synthetic Turf,MIN,1982,Dome
+20,New Orleans Louisiana,Saints,NFC,South,,Mercedes-Benz Superdome,29.950931,-90.081364,73208,76468,UBU-Intensity Series- S5-M Synthetic Turf,NO,1975,Dome
+21,East Rutherford New Jersey,Giants,NFC,East,,MetLife Stadium,40.812194,-74.076983,82566,82566,FieldTurf,NYG,2010,None
+22,East Rutherford New Jersey,Jets,AFC,East,,MetLife Stadium,40.812194,-74.076983,82566,82566,FieldTurf,NYJ,2010,None
+23,Oakland California,Raiders,AFC,West,,O.co Coliseum,37.751411,-122.200889,53200,63132,Grass,OAK,1966,None
+24,Cincinnati Ohio,Bengals,AFC,North,,Paul Brown Stadium,39.095442,-84.516039,65535,65535,FieldTurf,CIN,2000,None
+25,San Diego California,Chargers,AFC,West,,Qualcomm Stadium,32.783117,-117.119525,70561,70561,Grass,SD,1967,None
+26,Orchard Park New York,Bills,AFC,East,,Ralph Wilson Stadium,42.773739,-78.786978,73079,73079,A-Turf Titan,BUF,1973,None
+27,Tampa Florida,Buccaneers,NFC,South,,Raymond James Stadium,27.975967,-82.50335,65908,75000,419 Tifway Bermuda Grass,TB,1998,None
+28,Houston Texas,Texans,AFC,South,,Reliant Stadium,29.684781,-95.410956,71054,71738,419 Tifway Bermuda Grass,HOU,2002,Retractable
+29,Chicago Illinois,Bears,NFC,North,,Soldier Field,41.862306,-87.616672,61500,62871,Grass,CHI,1924,None
+30,Denver Colorado,Broncos,AFC,West,,Sports Authority Field at Mile High,39.743936,-105.020097,76125,76125,Desso GrassMaster,DEN,2001,None
+31,Miami Gardens Florida,Dolphins,AFC,East,,Sun Life Stadium,25.957919,-80.238842,75540,80120,419 Tifway Bermuda Grass,MIA,1987,None
+32,Glendale Arizona,Cardinals,NFC,West,,University of Phoenix Stadium,33.5277,-112.262608,63400,78600,419 Tifway Bermuda Grass,ARI,2006,Retractable

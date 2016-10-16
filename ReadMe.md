@@ -1,1 +1,1 @@
-A Football data App
+Another sports app

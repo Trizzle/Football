@@ -1,4 +1,4 @@
-[
+{"NFL":[
   {
     "team-num": 1,
     "city": "Kansas City Missouri",
@@ -14,7 +14,7 @@
     "surface": "Grass",
     "team": "KC",
     "open": 1972,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 2,
@@ -31,7 +31,7 @@
     "surface": "Grass",
     "team": "CAR",
     "open": 1996,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 3,
@@ -48,7 +48,7 @@
     "surface": "Kentucky Bluegrass",
     "team": "SF",
     "open": 1960,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 4,
@@ -65,7 +65,7 @@
     "surface": "FieldTurf",
     "team": "SEA",
     "open": 2002,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 5,
@@ -99,7 +99,7 @@
     "surface": "Grass",
     "team": "LAR",
     "open": 1923,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 7,
@@ -116,7 +116,7 @@
     "surface": "419 Tifway Bermuda Grass",
     "team": "JAC",
     "open": 1995,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 8,
@@ -133,7 +133,7 @@
     "surface": "419 Tifway Bermuda Grass",
     "team": "WAS",
     "open": 1997,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 9,
@@ -150,7 +150,7 @@
     "surface": "Kentucky Bluegrass",
     "team": "CLE",
     "open": 1999,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 10,
@@ -201,7 +201,7 @@
     "surface": "FieldTurf",
     "team": "NE",
     "open": 2002,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 13,
@@ -218,7 +218,7 @@
     "surface": "Grass",
     "team": "PIT",
     "open": 2001,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 14,
@@ -235,7 +235,7 @@
     "surface": "Desso GrassMaster",
     "team": "GB",
     "open": 1957,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 15,
@@ -252,7 +252,7 @@
     "surface": "Desso GrassMaster",
     "team": "PHI",
     "open": 2003,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 16,
@@ -269,7 +269,7 @@
     "surface": "419 Tifway Bermuda Grass",
     "team": "TEN",
     "open": 1999,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 17,
@@ -303,7 +303,7 @@
     "surface": "Sportexe Momentum Turf",
     "team": "BAL",
     "open": 1998,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 19,
@@ -354,7 +354,7 @@
     "surface": "FieldTurf",
     "team": "NYG",
     "open": 2010,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 22,
@@ -371,7 +371,7 @@
     "surface": "FieldTurf",
     "team": "NYJ",
     "open": 2010,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 23,
@@ -388,7 +388,7 @@
     "surface": "Grass",
     "team": "OAK",
     "open": 1966,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 24,
@@ -405,7 +405,7 @@
     "surface": "FieldTurf",
     "team": "CIN",
     "open": 2000,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 25,
@@ -422,7 +422,7 @@
     "surface": "Grass",
     "team": "SD",
     "open": 1967,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 26,
@@ -439,7 +439,7 @@
     "surface": "A-Turf Titan",
     "team": "BUF",
     "open": 1973,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 27,
@@ -456,7 +456,7 @@
     "surface": "419 Tifway Bermuda Grass",
     "team": "TB",
     "open": 1998,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 28,
@@ -490,7 +490,7 @@
     "surface": "Grass",
     "team": "CHI",
     "open": 1924,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 30,
@@ -507,7 +507,7 @@
     "surface": "Desso GrassMaster",
     "team": "DEN",
     "open": 2001,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 31,
@@ -524,7 +524,7 @@
     "surface": "419 Tifway Bermuda Grass",
     "team": "MIA",
     "open": 1987,
-    "roof": "None"
+    "roof": "Open Stadium"
   },
   {
     "team-num": 32,
@@ -543,4 +543,4 @@
     "open": 2006,
     "roof": "Retractable"
   }
-]
+]}

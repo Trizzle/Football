@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
-<link href="../css/animate.css" rel="stylesheet" type="text/css" media="screen"> 
+<!-- <link href="../css/animate.css" rel="stylesheet" type="text/css" media="screen"> -->
 <link href="../css/bootstrap.css" rel="stylesheet"></script> 
 <link href="../css/bootstrap.min.css" rel="stylesheet"></script> 
 <link href="../css/bootstrap-theme.css" rel="stylesheet"></script> 
@@ -68,10 +68,8 @@
 <script src="../js/bootstrap.min.js" type="text/javascript"></script>       
 <!-- <script src="js/npm.js" type="text/javascript"></script> -->
 <script type="text/javascript">
-   $(document).ready(function() {
-     $('#nflTable').dataTable( {
-  		"ajax": "../nfl-data/nfl-team-info.json"
-  		})
+  $.getJSON('../nfl-data/nfl-team-info.json', function(data) {
+  		console.log(value);
 });
 </script>
 </body>

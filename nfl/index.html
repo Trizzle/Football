@@ -41,15 +41,28 @@
       <table id="nflTable" class="display" cellspacing="0" width="100%">
          <thead>
             <tr>
+    
+                 <th>City</th>
                 <th>Team Name</th>
-                <th>City</th>
                 <th>Conference</th>
                 <th>Division</th>
                 <th>Stadium</th>
                
             </tr>
             
-        </thead>
+            
+            
+            <tfoot>
+              <tr>
+     
+                <th>City</th>
+                <th>Team Name</th>
+                <th>Conference</th>
+                <th>Division</th>
+                <th>Stadium</th>
+               
+            </tr>
+        </tfoot>
       
       </table>
       <div id="Team"> </div>
@@ -68,8 +81,25 @@
 <script src="../js/bootstrap.min.js" type="text/javascript"></script>       
 <!-- <script src="js/npm.js" type="text/javascript"></script> -->
 <script type="text/javascript">
-  $.getJSON('../nfl-data/nfl-team-info.json', function(data) {
-  		console.log('good');
+$.getJSON('../nfl-data/nfl-team-info.json', function(json){
+          nflData = json;
+          }),
+          
+$(document).ready(function() {
+	$('#nflTable').DataTable( {
+         data: nflData,
+
+      
+         columns: [
+
+            { title: "City" },
+            { title: "Team Name" },
+            { title: "Conference" },
+            { title: "Division" },
+            { title: "Stadium" }
+     
+        ]
+     } );   
 });
 </script>
 </body>

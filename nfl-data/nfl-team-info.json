@@ -1,7 +1,7 @@
 {
 	"NFL": [
   {
-    "id": 1,
+    "tid": 1,
     "city": "Kansas City Missouri",
     "team-name": "Chiefs",
     "conference": "AFC",
@@ -18,7 +18,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 2,
+    "tid": 2,
     "city": "Charlotte North Carolina",
     "team-name": "Panthers",
     "conference": "NFC",
@@ -35,7 +35,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 3,
+    "tid": 3,
     "city": "San Francisco California",
     "team-name": "49ers",
     "conference": "NFC",
@@ -52,7 +52,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 4,
+    "tid": 4,
     "city": "Seattle Washington",
     "team-name": "Seahawks",
     "conference": "NFC",
@@ -69,7 +69,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 5,
+    "tid": 5,
     "city": "Arlington Texas",
     "team-name": "Cowboys",
     "conference": "NFC",
@@ -86,7 +86,7 @@
     "roof": "Retractable"
   },
   {
-    "id": 6,
+    "tid": 6,
     "city": "Los Angeles California",
     "team-name": "Rams",
     "conference": "NFC",
@@ -103,7 +103,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 7,
+    "tid": 7,
     "city": "Jacksonville Florida",
     "team-name": "Jaguars",
     "conference": "AFC",
@@ -120,7 +120,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 8,
+    "tid": 8,
     "city": "Landover Maryland",
     "team-name": "Redskins",
     "conference": "NFC",
@@ -137,7 +137,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 9,
+    "tid": 9,
     "city": "Cleveland Ohio",
     "team-name": "Browns",
     "conference": "AFC",
@@ -154,7 +154,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 10,
+    "tid": 10,
     "city": "Detroit Michigan",
     "team-name": "Lions",
     "conference": "NFC",
@@ -171,7 +171,7 @@
     "roof": "Dome"
   },
   {
-    "id": 11,
+    "tid": 11,
     "city": "Atlanta Georgia",
     "team-name": "Falcons",
     "conference": "NFC",
@@ -188,7 +188,7 @@
     "roof": "Dome"
   },
   {
-    "id": 12,
+    "tid": 12,
     "city": "Foxborough Massachusetts",
     "team-name": "Patriots",
     "conference": "AFC",
@@ -205,7 +205,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 13,
+    "tid": 13,
     "city": "Pittsburgh Pennsylvania",
     "team-name": "Steelers",
     "conference": "AFC",
@@ -222,7 +222,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 14,
+    "tid": 14,
     "city": "Green Bay Wisconsin",
     "team-name": "Packers",
     "conference": "NFC",
@@ -239,7 +239,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 15,
+    "tid": 15,
     "city": "Philadelphia Pennsylvania",
     "team-name": "Eagles",
     "conference": "NFC",
@@ -256,7 +256,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 16,
+    "tid": 16,
     "city": "Nashville Tennessee",
     "team-name": "Titams",
     "conference": "AFC",
@@ -273,7 +273,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 17,
+    "tid": 17,
     "city": "Indianapolis Indiana",
     "team-name": "Colts",
     "conference": "AFC",
@@ -290,7 +290,7 @@
     "roof": "Retractable"
   },
   {
-    "id": 18,
+    "tid": 18,
     "city": "Baltimore Maryland",
     "team-name": "Ravens",
     "conference": "AFC",
@@ -307,7 +307,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 19,
+    "tid": 19,
     "city": "Minneapolis Minnesota",
     "team-name": "Vikings",
     "conference": "NFC",
@@ -324,7 +324,7 @@
     "roof": "Dome"
   },
   {
-    "id": 20,
+    "tid": 20,
     "city": "New Orleans Louisiana",
     "team-name": "Saints",
     "conference": "NFC",
@@ -341,7 +341,7 @@
     "roof": "Dome"
   },
   {
-    "id": 21,
+    "tid": 21,
     "city": "East Rutherford New Jersey",
     "team-name": "Giants",
     "conference": "NFC",
@@ -358,7 +358,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 22,
+    "tid": 22,
     "city": "East Rutherford New Jersey",
     "team-name": "Jets",
     "conference": "AFC",
@@ -375,7 +375,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 23,
+    "tid": 23,
     "city": "Oakland California",
     "team-name": "Raiders",
     "conference": "AFC",
@@ -392,7 +392,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 24,
+    "tid": 24,
     "city": "Cincinnati Ohio",
     "team-name": "Bengals",
     "conference": "AFC",
@@ -409,7 +409,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 25,
+    "tid": 25,
     "city": "San Diego California",
     "team-name": "Chargers",
     "conference": "AFC",
@@ -426,7 +426,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 26,
+    "tid": 26,
     "city": "Orchard Park New York",
     "team-name": "Bills",
     "conference": "AFC",
@@ -443,7 +443,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 27,
+    "tid": 27,
     "city": "Tampa Florida",
     "team-name": "Buccaneers",
     "conference": "NFC",
@@ -460,7 +460,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 28,
+    "tid": 28,
     "city": "Houston Texas",
     "team-name": "Texans",
     "conference": "AFC",
@@ -477,7 +477,7 @@
     "roof": "Retractable"
   },
   {
-    "id": 29,
+    "tid": 29,
     "city": "Chicago Illinois",
     "team-name": "Bears",
     "conference": "NFC",
@@ -494,7 +494,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 30,
+    "tid": 30,
     "city": "Denver Colorado",
     "team-name": "Broncos",
     "conference": "AFC",
@@ -511,7 +511,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 31,
+    "tid": 31,
     "city": "Miami Gardens Florida",
     "team-name": "Dolphins",
     "conference": "AFC",
@@ -528,7 +528,7 @@
     "roof": "Open Stadium"
   },
   {
-    "id": 32,
+    "tid": 32,
     "city": "Glendale Arizona",
     "team-name": "Cardinals",
     "conference": "NFC",
@@ -544,4 +544,5 @@
     "open": 2006,
     "roof": "Retractable"
   }
-]}
+]
+}

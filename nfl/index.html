@@ -85,7 +85,9 @@
           
 $(document).ready(function() {
     $('#nflTable').DataTable( {
-        "ajax": '../nfl-data/nfl-team-info.json'
+        "bProcessing":true,
+        "sAjaxSource": '../nfl-data/nfl-team-info.json',
+        
     } );
 } );
 </script>

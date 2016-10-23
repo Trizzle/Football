@@ -82,10 +82,7 @@
           
  $(document).ready(function(){
     $('#nflTable').DataTable( {      
-        "ajax" : {
-          "url" : "../nfl-data/nfl-team-info.json",
-          "dataSrc": "NFL"
-        },
+        "ajax" : "../nfl-data/nfl-team-info.json",
         "columns": [
 		{ "data": "city"},
 		{ "data": "team-name"},

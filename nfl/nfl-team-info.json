@@ -1,5 +1,5 @@
 {
-	"NFL" : [
+	"NFL": [
   {
     "tid": "1",
     "city": "Kansas City Missouri",
@@ -544,5 +544,5 @@
     "open": "2006",
     "roof": "Retractable"
   }
- ]
+]
 }

@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>NFL</title>
+<title>NBA</title>
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />  
            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>  
@@ -25,8 +25,8 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="nfl/index.html">NFL</a></li>
-            <li class=""><a href="../nba/index.html">NBA</a></li>
+            <li class="active"><a href="../nfl/index.html">NFL</a></li>
+            <li class=""><a href="index.html">NBA</a></li>
             <li><a href="#">About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -36,14 +36,14 @@
      <div class="container">
       <div class="page-header">
        <p>&nbsp;</p>
-        <h1>NFL Teams</h1>
+        <h1>NBA Teams</h1>
      
       </div>
    
-      <table id="nflTable" class="table" cellspacing="0" width="100%">
+    <!--  <table id="nbaTable" class="table" cellspacing="0" width="100%">
          <thead>
             <tr>
-                <th>Helmet</th>
+                <th>Logo</th>
                 <th>Team</th>
                 <th>Team Name</th>
                 <th>Conference</th>
@@ -58,7 +58,7 @@
             
             <tfoot>
               <tr>
-                <th>Helmet</th>
+                <th>Logo</th>
                 <th>City</th>
                 <th>Team Name</th>
                 <th>Conference</th>
@@ -68,7 +68,7 @@
             </tr>
         </tfoot>
       
-      </table>
+      </table>  -->
   
     </div>
 
@@ -84,13 +84,13 @@
 <script>
           
  $(document).ready(function(){
-    $('#nflTable').DataTable( {      
+    $('#nbaTable').DataTable( {      
         "ajax" : {
-          "url" : "../nfl-data/nfl-team-info.json",
-          "dataSrc": "NFL"
+          "url" : "../nba-data/nba-team-info.json",
+          "dataSrc": "NBA"
         },
         "columns": [
-          { "data": "helmet"},
+          { "data": "logo"},
 		{ "data": "team"},
 		{ "data": "team-name"},
 		{ "data": "conference"},

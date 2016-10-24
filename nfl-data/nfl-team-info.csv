@@ -1,9 +1,9 @@
-team-num,city,name,conference,division,helmet,stadium,latitude,longitude,capacity,rec-attend,surface,team,open,roof
+team-num,city,name,conference,division,logo,stadium,latitude,longitude,capacity,rec-attend,surface,team,open,roof
 1,Kansas City Missouri,Chiefs,AFC,West,kansas-city.jpg,Arrowhead Stadium,39.048914,-94.484039,76416,76416,Grass,KC,1972,None
 2,Charlotte North Carolina,Panthers,NFC,South,carolina.jpg,Bank of America Stadium,35.225808,-80.852861,73778,73778,Grass,CAR,1996,None
 3,San Francisco California,49ers,NFC,West,san-francisco.jpg,Levi Stadium,37.403,-121.97,69732,69732,Kentucky Bluegrass,SF,1960,None
 4,Seattle Washington,Seahawks,NFC,West,seattle.jpg,CenturyLink Field,47.595153,-122.331625,67000,72000,FieldTurf,SEA,2002,None
-5,Arlington Texas,Cowboys,NFC,East,dallas.jpg,Cowboys Stadium,32.747778,-97.092778,80000,105121,Matrix RealGrass„artificial turf,DAL,2009,Retractable
+5,Arlington Texas,Cowboys,NFC,East,dallas.jpg,Cowboys Stadium,32.747778,-97.092778,80000,105121,Matrix RealGrassãartificial turf,DAL,2009,Retractable
 6,Los Angeles California,Rams,NFC,West,los-angeles.jpg,Los Angeles Memorial Coliseum,34.014167,-118.287778,80000,80000,Grass,LAR,1923,None
 7,Jacksonville Florida,Jaguars,AFC,South,jacksonville.jpg,EverBank Field,30.323925,-81.637356,67246,76867,419 Tifway Bermuda Grass,JAC,1995,None
 8,Landover Maryland,Redskins,NFC,East,washington.jpg,FedExField,38.907697,-76.864517,85000,85000,419 Tifway Bermuda Grass,WAS,1997,None
